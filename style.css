@@ -112,7 +112,7 @@ h3{
     display: flex;
     justify-content: center;
     position: absolute;
-    top: 190%;
+    top: 1170px;
     left: 9.75%;
     /* align-self: center; */
     border-radius: 20px;
@@ -192,7 +192,7 @@ h3{
 }
 
 #container-5{
-    margin-top: 200px;
+    margin-top: 230px;
     padding-bottom: 40px;
 }
 
